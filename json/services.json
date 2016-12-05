@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Hardware Repair",
+    "description": "pibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fer",
+    "price_range": "$100 - $200"
+  },
+  {
+    "name": "Virus Removal",
+    "description": "o, tortor mauris condimentum nibh, ut fer",
+    "price_range": "$100 - $150"
+  },
+  {
+    "name": "PC Tune Up",
+    "description": "entum nibh, ut fer",
+    "price_range": "$75 - $150"
+  },
+  {
+    "name": "Network Services",
+    "description": "entum nibh, ut ferdwd wd w dwd wd ",
+    "price_range": "$500 - $1500"
+  }
+]
